@@ -1,7 +1,7 @@
 # Validation, Notification, and Popup Project
 
 ## Introduction
-This project includes three sub-projects for form validation, displaying notifications, and creating popups. These projects are implemented using HTML, CSS, and JavaScript.
+This project includes three sub-projects for form validation, displaying notifications, and creating popups and etc. These projects are implemented using HTML, CSS, and JavaScript.
 
 ## Table of Contents
 1. [Installation](#installation)
