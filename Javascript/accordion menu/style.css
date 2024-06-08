@@ -18,6 +18,12 @@ ul{
 }
 
 
+.collapse{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .collapse-menu{
     width: 600px;
     margin: 0 auto;
