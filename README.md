@@ -1,4 +1,3 @@
-# Validation, Notification, and Popup Project
 
 ## Introduction
 This project includes three sub-projects for form validation, displaying notifications, and creating popups, Todo List, Get User Location and etc. These projects are implemented using HTML, CSS, and JavaScript.
