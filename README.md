@@ -15,6 +15,6 @@ This project includes three sub-projects for form validation, displaying notific
 To use these projects, simply clone the repository and open the HTML, CSS, and JS files in your browser. Follow these steps:
 
 ```bash
-git clone https://github.com/imahdi2006/your-repo-name.git
+git clone https://github.com/imahdi2006/JavaScript-Project.git
 cd your-repo-name
 
