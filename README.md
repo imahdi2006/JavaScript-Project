@@ -1,6 +1,6 @@
 
 ## Introduction
-This project includes three sub-projects for form validation, displaying notifications, and creating popups, Todo List, Get User Location and etc. These projects are implemented using HTML, CSS, and JavaScript.
+This project includes 10 sub-projects for form validation, displaying notifications, and creating popups, Todo List, Get User Location , QR Code Generator , Trending Submit Button and etc. These projects are implemented using HTML, CSS, and JavaScript.
 
 ## Table of Contents
 1. [Installation](#installation)
